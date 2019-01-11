@@ -1,0 +1,30 @@
+/* .postContainer { */
+/*   width: 100%; */
+/*   margin: 0 auto; */
+/*   margin-top: 2rem; */
+/*   border-top: 3px solid lightgray; */
+/* } */
+/*   margin-top: 4rem; */
+/*   border: 1px solid lightgray; */
+/* } */
+/*  */
+/* .postTitle { */
+/*   display: flex; */
+/*   flex-wrap: wrap; */
+/*   align-items: center; */
+/* } */
+/*  */
+/* .postTitle img { */
+/*   width: 4rem; */
+/*   height: 4rem; */
+/*   border-radius: 50%; */
+/*   padding: 1rem; */
+/* } */
+/*  */
+/* .postTitle h2 { */
+/*   margin-left: 2rem; */
+/* } */
+
+.postImage {
+  width: 100%;
+}

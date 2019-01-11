@@ -1,0 +1,66 @@
+.loginContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.loginContainer h1 {
+  width: 100%;
+  min-width: 500px;
+  text-align: center;
+}
+
+.loginForm {
+  width: 80%;
+  max-width: 500px;
+  min-width: 250px;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.username {
+  display: flex;
+  width: 70%;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.username label {
+  width: 30%;
+  text-align: left;
+  font-size: 1.3rem;
+}
+
+.username input {
+  width: 65%;
+}
+
+.password {
+  display: flex;
+  width: 70%;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.password label {
+  width: 30%;
+  text-align: left;
+  font-size: 1.3rem;
+}
+
+.password input {
+  width: 65%;
+}
+
+.loginForm button {
+  width: 68%;
+  margin-left: 5px;
+}

@@ -1,0 +1,77 @@
+/* .commentsContainer { */
+/*   padding-top: 2rem; */
+/*   padding-right: 2rem; */
+/*   padding-left: 2rem; */
+/*   text-align: left; */
+/* } */
+
+/* .commentsImg { */
+/*   padding-bottom: 2rem; */
+/*   padding-left: 1rem; */
+/*   width: 55px; */
+/*   display: flex; */
+/*   flex-wrap: wrap; */
+/*   justify-content: space-between; */
+/* } */
+
+/* .likes { */
+/*   font-size: 1.5rem; */
+/*   font-weight: bold; */
+/*   margin-bottom: 1rem; */
+/*   padding-left: 3px; */
+/* } */
+
+/* .userComments { */
+/*   display: flex; */
+/*   flex-wrap: wrap; */
+/*   font-size: 1.5rem; */
+/* } */
+
+/* .userComUser { */
+/*   margin: 0.3rem; */
+/*   padding-right: 1rem; */
+/*   font-weight: bold; */
+/* } */
+/*  */
+/* .userComUser:hover { */
+/*   cursor: pointer; */
+/* } */
+/*  */
+/* .userComText { */
+/*   margin: 0.3rem; */
+/* } */
+/*  */
+/* .userComText:hover { */
+/*   cursor: pointer; */
+/* } */
+
+.timeContainer {
+  padding-left: 0.3rem;
+  font-size: 1rem;
+}
+
+.addComment {
+  width: 95%;
+  display: flex;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.5rem;
+  border-top: 1px solid lightgray;
+}
+
+.addComment input {
+  width: 90%;
+  border: none;
+  padding: 15px 0;
+}
+
+.addComment input:focus {
+  outline: none;
+}
+
+.addComment .fa-ellipsis-h {
+  width: 9%;
+  text-align: right;
+}
